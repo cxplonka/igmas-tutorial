@@ -87,6 +87,7 @@ markdown_extensions:
       permalink: true
 
 plugins:
+  - markdown_captions
   - tags
   # https://blueswen.github.io/mkdocs-glightbox/
   - glightbox:
