@@ -1,6 +1,6 @@
 ---
 title: IGMAS+ Online Tutorial
-type: book  # Do not modify.
+type: book  # Do not modify
 toc: false
 ---
 
