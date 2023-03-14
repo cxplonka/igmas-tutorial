@@ -82,12 +82,12 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - markdown_captions
 
   - toc:
       permalink: true
 
 plugins:
-  - markdown_captions
   - tags
   # https://blueswen.github.io/mkdocs-glightbox/
   - glightbox:
