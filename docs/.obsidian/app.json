@@ -1,6 +1,7 @@
 {
   "attachmentFolderPath": "assets/images",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useMarkdownLinks": true
 }
