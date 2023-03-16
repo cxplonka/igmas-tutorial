@@ -10,7 +10,7 @@ repo_url: https://github.com/cxplonka/igmas-tutorial
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2023 IGMAS+ Team
+copyright: Made with ❤️ by IGMAS+ Team
 
 theme:
     name: 'material'
