@@ -64,7 +64,7 @@ markdown_extensions:
   - footnotes
   - admonition
   - nl2br
-  # - attr_list
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.superfences:
@@ -73,7 +73,7 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.details
-  # - pymdownx.magiclink
+  - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
@@ -83,6 +83,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - mdx_truly_sane_lists # better lists
+  - mdx_breakless_lists # https://github.com/adamb70/mdx-breakless-lists
   # - markdown_captions # image caption support
 
   - toc:
